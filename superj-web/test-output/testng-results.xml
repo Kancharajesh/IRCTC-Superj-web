@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="9" total="10" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-03T11:18:28 IST" name="Default suite" finished-at="2024-10-03T11:18:39 IST" duration-ms="10344">
+    <groups>
+    </groups>
+    <test started-at="2024-10-03T11:18:28 IST" name="Default test" finished-at="2024-10-03T11:18:39 IST" duration-ms="10344">
+      <class name="Testcases.SignUp">
+        <test-method is-config="true" signature="setupExtentReports()[pri:0, instance:Testcases.SignUp@69453e37]" started-at="2024-10-03T11:18:28 IST" name="setupExtentReports" finished-at="2024-10-03T11:18:28 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupExtentReports -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.SignUp@69453e37]" started-at="2024-10-03T11:18:28 IST" name="setup" finished-at="2024-10-03T11:18:30 IST" duration-ms="1609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="completeOnboardingFlow1()[pri:10, instance:Testcases.SignUp@69453e37]" started-at="2024-10-03T11:18:30 IST" name="completeOnboardingFlow1" finished-at="2024-10-03T11:18:39 IST" duration-ms="8516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeOnboardingFlow1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testcases.SignUp@69453e37]" started-at="2024-10-03T11:18:39 IST" name="closeBrowser" finished-at="2024-10-03T11:18:39 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="tearDownExtentReports()[pri:0, instance:Testcases.SignUp@69453e37]" started-at="2024-10-03T11:18:39 IST" name="tearDownExtentReports" finished-at="2024-10-03T11:18:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownExtentReports -->
+      </class> <!-- Testcases.SignUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
